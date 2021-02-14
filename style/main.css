@@ -165,12 +165,15 @@ body {
 
 .contact-box__small > input {
     width: 252px;
-    font-size: 8px;
+    padding-top: 5px;
+    font-size: 20px;
     border: 0;
     border-bottom: #bdbdbd solid 1px;
 }
 
 .contact-box__small > p {
+    margin: 0px;
+    padding-top: 10px;
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     font-weight: 400;
@@ -182,7 +185,7 @@ body {
 .get-start-button {
     width: 370px;
     height: 54px;
-    margin-top: 50px; 
+    margin-top: 51px; 
     padding: 0; 
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
